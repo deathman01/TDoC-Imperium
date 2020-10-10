@@ -1,7 +1,5 @@
 # TDoC - IMPERIUM
 
-This is the official repository for Imperium submissions.
-
 ## About the project
 
 Imperium is an indigenous Version Control System(like git) written in C++, absolutely from scratch.
